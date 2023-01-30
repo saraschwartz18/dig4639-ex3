@@ -1,6 +1,6 @@
 // random quote generator!!!!
 
-import('node-fetch')
+//import('node-fetch')
 /*let randomNumbers = ["ars longa, vita brevis","",3]
 console.log(Math.random())
 console.log(randomNumbers[0])*/
