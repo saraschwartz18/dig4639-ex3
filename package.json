@@ -1,0 +1,20 @@
+{
+  "name": "dig4639-ex3",
+  "version": "1.0.0",
+  "description": "\"Ars longa, Vita Brevis\" is a latin phrase for \"Art (skillfullness) is long, Life is Short\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saraschwartz18/dig4639-ex3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saraschwartz18/dig4639-ex3/issues"
+  },
+  "homepage": "https://github.com/saraschwartz18/dig4639-ex3#readme"
+}
