@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "\"Ars longa, Vita Brevis\" is a latin phrase for \"Art (skillfullness) is long, Life is Short\"",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
